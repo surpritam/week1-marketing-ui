@@ -20,4 +20,9 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Updates
-
+Added title of the website under head - title
+Replaced existing HTML elements with semantic elements like header, section, article, aside, and footer
+Instead of using background-image in CSS, replaced it with img tag with src and alt attribute
+Added alt attribute to all img tags
+Consolidated the CSS elements to reduce duplication
+Used Github pages to host the website : https://surpritam.github.io/week1-marketing-ui/
